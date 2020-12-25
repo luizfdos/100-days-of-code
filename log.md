@@ -23,6 +23,22 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 [Elena Joy Photography](https://github.com/luizfdos/elena-joy-photography)
 [Portifolio](https://github.com/luizfdos/portifolio)
 
+## Day 02: December 24, 2020 
+
+<hr>
+
+**Today's Progress**: 
+- Worked on improvements on my project my_teacher
+- Learned about .env 
+- Studied more SQL
+
+**Thoughts:** Today I studied less than I wanted due to Christmas but I've made some progress and learned more about databases and docker with my friend @leonardorcamargo
+
+**Links to works:** 
+[My_teacher](https://github.com/luizfdos/elena-joy-photographyhttps://github.com/luizfdos/my_teacher)
+
+
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
