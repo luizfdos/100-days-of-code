@@ -37,6 +37,17 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 **Links to works:** 
 [My_teacher](https://github.com/luizfdos/elena-joy-photographyhttps://github.com/luizfdos/my_teacher)
 
+## Day 03: December 25, 2020 
+
+<hr>
+
+**Today's Progress**: 
+- Finished Dev Ed's course
+- Worked on my portfolio page
+
+**Thoughts:** Taking dev ed's course was a very informative and fun experience, when I started the course I already knew some HTML and CSS, but I learned some cool tricks e techniques. Today I'm not going to post the project because I'm still working on the svg and general styling.
+
+
 
 
 <!-- 
