@@ -45,8 +45,21 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 - Finished Dev Ed's course
 - Worked on my portfolio page
 
-**Thoughts:** Taking dev ed's course was a very informative and fun experience, when I started the course I already knew some HTML and CSS, but I learned some cool tricks e techniques. Today I'm not going to post the project because I'm still working on the svg and general styling.
+**Thoughts:** Taking dev ed's course was a very informative and fun experience, when I started the course I already knew some HTML and CSS, but I learned some cool tricks and techniques. Today I'm not going to post the project because I'm still working on the svg and general styling. 
 
+## Day 04: December 26, 2020 
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3f_oHWCsj0h6RKC0tmrcoMvI6g6fOsPz_0ANLtHW4hg8FSjSfMUMRENVjLtv80qf_ev_PZl7tV7OSN0HW-COawOtSwrflLu6Ri64Idr2uCbqR9VlCZPDS69QYzW3n5d2Vnu97PRFBMXaAtZEH-LLRWlrg=w1428-h945-no?authuser=0" alt="Portfolio preview">
+<hr>
+
+**Today's Progress**: 
+- Worked on my portfolio page
+- Leaned more about sass and grid
+
+**Thoughts:** I'm happy with the result and have already planed some improvements.
+
+**Links to works:** 
+[Portfolio](https://luizfdos.github.io)
 
 
 
