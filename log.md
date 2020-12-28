@@ -61,6 +61,20 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 **Links to works:** 
 [Portfolio](https://luizfdos.github.io)
 
+## Day 05: December 27, 2020 
+
+<hr>
+
+**Today's Progress**: 
+- Studied CS fundamentals with python on COUSERA
+- Studied OOP
+- Compressed images of my previous projects to improve performance
+
+**Thoughts:** I really enjoy working with python. 
+
+**Links to works:** 
+[Introduction to computer science with python course](https://github.com/luizfdos/introducao_a_ciencias_da_computacao_com_python)
+
 
 
 <!-- 
