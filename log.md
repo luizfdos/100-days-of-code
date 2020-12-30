@@ -75,12 +75,23 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 **Links to works:** 
 [Introduction to computer science with python course](https://github.com/luizfdos/introducao_a_ciencias_da_computacao_com_python)
 
-## Day 05: December 28, 2020 
+## Day 06: December 28, 2020 
 
 <hr>
 
 **Today's Progress**: 
 - Studied OOP
+
+**Links to works:** 
+[Introduction to computer science with python course](https://github.com/luizfdos/introducao_a_ciencias_da_computacao_com_python)
+
+## Day 07: December 29, 2020 
+
+<hr>
+
+**Today's Progress**: 
+- Studied pytest 
+- Started the Javascript course from origamid
 
 **Links to works:** 
 [Introduction to computer science with python course](https://github.com/luizfdos/introducao_a_ciencias_da_computacao_com_python)
