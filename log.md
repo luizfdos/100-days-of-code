@@ -96,6 +96,13 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 **Links to works:** 
 [Introduction to computer science with python course](https://github.com/luizfdos/introducao_a_ciencias_da_computacao_com_python)
 
+## Day 08: December 30, 2020 
+
+<hr>
+
+**Today's Progress**: 
+- Studied javascript 
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
