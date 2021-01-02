@@ -103,6 +103,16 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 **Today's Progress**: 
 - Studied javascript 
 
+## Day 09: January 1, 2021 
+
+<img src="https://images.pexels.com/photos/167682/pexels-photo-167682.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Mathemathic book">
+<hr>
+
+**Today's Progress**: 
+- Studied javascript course from origamid.
+- Started the Mathematical Thinking in Computer Science course on coursera.
+- 
+**Thoughts:** I know that studying math will be crucial to my knowledge of computer science basics and will help me understand more complex concepts in the future and for sure will help me be a better developer.
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
