@@ -113,6 +113,15 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 - Started the Mathematical Thinking in Computer Science course on coursera.
 - 
 **Thoughts:** I know that studying math will be crucial to my knowledge of computer science basics and will help me understand more complex concepts in the future and for sure will help me be a better developer.
+## Day 10: January 2, 2021 
+
+
+<hr>
+
+**Today's Progress**: 
+- Studied JavaScript
+- Studied math
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
