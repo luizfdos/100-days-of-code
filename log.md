@@ -133,6 +133,49 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 - Studied JavaScript
 - started learning vue
 
+## Day 11: January 4, 2021 
+
+<hr>
+
+**Today's Progress**: 
+- Studied JavaScript
+- started learning vue
+## Day 12: January 5, 2021 
+
+<hr>
+
+**Today's Progress**: 
+- studied vue
+  
+## Day 13: January 6, 2021 
+
+<hr>
+
+**Today's Progress**: 
+- studied vue
+
+## Day 14: January 7, 2021
+
+<hr>
+
+**Today's Progress**:
+- started a vue project for a job interview
+
+**Links to works:** 
+[Teste burh](https://github.com/luizfdos/teste-burh-front)
+
+## Day 15: January 8, 2021
+
+<hr>
+
+**Today's Progress**:
+- Continued the vue project for the job interview
+
+**Links to works:** 
+[Teste burh](https://github.com/luizfdos/teste-burh-front)
+
+**Thoughts** The test has been challenging since I had never worked with vue before, but it's exciting and I am learning so much in the process.
+
 
 
 <!-- 
