@@ -176,6 +176,41 @@ With that quote from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIX
 
 **Thoughts** The test has been challenging since I had never worked with vue before, but it's exciting and I am learning so much in the process.
 
+## Day 16: January 9, 2021
+
+<hr>
+
+**Today's Progress**:
+- Continued the vue project for the job interview
+
+**Links to works:** 
+[Teste burh](https://github.com/luizfdos/teste-burh-front)
+
+**Thoughts** I'm really happy with the progress and enjoying a lot working with VueJS.
+
+## Day 17: January 10, 2021
+
+<hr>
+
+**Today's Progress**:
+- Continued the vue project for the job interview
+
+**Links to works:** 
+[Teste burh](https://github.com/luizfdos/teste-burh-front)
+
+## Day 18: January 11, 2021
+
+<hr>
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3em1IxBq4KLYT3a-xatWwhXzkWMiGQVmly3YGqgQk3gEMDHjOdEGpaJ4_w9fgsONpKEqD-W2VqWdpSJzZ6K9YwfagbZd5lqZN6oE_bKUMuCF1lKoVsdWG1y8VX0m5QcNPY1fPt94mMEf4SwZ5oFuLdFzw=w934-h873-no?authuser=0" alt="#100daysofcode">
+
+
+**Today's Progress**:
+- Finished the vue project
+
+**Links to works:** 
+[Teste burh](https://github.com/luizfdos/teste-burh-front)
+
+**Thoughts** Today I finished the project's requirements. This test was really challenging, and I enjoyed it a lot. Even with the test over, I plan to continue working on this project while I improve my skills.
 
 
 <!-- 
